@@ -2,6 +2,8 @@
 
 ## Example projects
 
+- https://github.com/sgrove/reason-react-example/tree/kandan-2/src/kandan (WIP)
+- https://github.com/bsansouci/rewitness
 - https://github.com/wyze/reason-calculator
 
 ## Tooling
